@@ -1,4 +1,4 @@
 {
-  "version": 1.4,
-  "change": "Added an inventory system with clothing slots. Added support for WebP, PNG, and other formats. Added a key to raise hands. Added a file for translations. This is a beta, so if you find any bugs, report them on Discord."
+  "version": 1.5,
+  "change": "Inventory change. Install on Keymaster and install the latest version of MClothes."
 }
