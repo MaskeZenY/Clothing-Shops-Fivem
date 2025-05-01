@@ -1,4 +1,4 @@
 {
-  "version": 1.6,
-  "change": "Fix bug adding new cam update and new inventory here"
+  "version": 1.7,
+  "change": "Removed basket, added individual clothing price update system, fixed bugs, improved performance"
 }
