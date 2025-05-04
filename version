@@ -1,4 +1,4 @@
 {
-  "version": 1.8,
-  "change": "Changed outfit system, fixed bugs, and requires reinstalling the latest inventory update on Keymaster. If you have modified the inventory, you only need to add the image '38.png' from the new version (on Keymaster) to your current version."
+  "version": 1.81,
+  "change": "Fix bug"
 }
