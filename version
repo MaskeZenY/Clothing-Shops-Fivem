@@ -1,4 +1,4 @@
 {
-  "version": 1.81,
-  "change": "Fix bug"
+  "version": 1.9,
+  "change": "Fixed duplication bugs and other minor issues, added a setting to enable or disable outfit saving."
 }
