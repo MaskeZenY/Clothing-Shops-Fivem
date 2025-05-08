@@ -1,4 +1,4 @@
 {
-  "version": 1.93,
+  "version": 1.92,
   "change": "Re-added clothing index to the menu. You can now change the number of inventory slots (re-download the inventory from Keymaster)."
 }
