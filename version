@@ -1,4 +1,4 @@
 {
-  "version": 1.92,
-  "change": "Re-added clothing index to the menu. You can now change the number of inventory slots (re-download the inventory from Keymaster)."
+  "version": 1.93,
+  "change": "Fixed bug | Use the /convert command in the console to convert all outfits to the new version. (Please make a backup of the players outfits before running the command.)"
 }
