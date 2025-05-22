@@ -1,4 +1,4 @@
 {
-  "version": 1.93,
-  "change": "Fixed bug | Use the /convert command in the console to convert all outfits to the new version. (Please make a backup of the players outfits before running the command.)"
+  "version": 1.94,
+  "change": "Fixed bug"
 }
