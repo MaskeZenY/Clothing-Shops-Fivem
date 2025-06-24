@@ -1,4 +1,4 @@
 {
-  "version": 1.95,
-  "change": "Fixed bug"
+  "version": 1.96,
+  "change": "Fixed bugs, added a system to add a locker for your job"
 }
