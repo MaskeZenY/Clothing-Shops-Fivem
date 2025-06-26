@@ -1,4 +1,4 @@
 {
-  "version": 1.96,
-  "change": "Fixed bugs, added a system to add a locker for your job"
+  "version": 1.97,
+  "change": "Fix bag, add animation when changing clothes"
 }
