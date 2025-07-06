@@ -1,4 +1,4 @@
 {
-  "version": 1.97,
-  "change": "Fix bag, add animation when changing clothes"
+  "version": 1.98,
+  "change": "Added clothes purchase restriction based on job | Performance improvements | Added decals"
 }
