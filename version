@@ -1,4 +1,4 @@
 {
-  "version": 1.99,
-  "change": "Bug fixes, duplicate clothing protection, inventory improvements (trunk and player), hover preview, a drop button, QBOX/QBCore support via mclothes, and React code cleanup."
+  "version": 1.991,
+  "change": "HOT FIX."
 }
