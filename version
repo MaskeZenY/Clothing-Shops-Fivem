@@ -1,4 +1,4 @@
 {
-  "version": 1.992,
-  "change": "Fix bag and fix laggy ui"
+  "version": 1.993,
+  "change": "You can use outfit item now , implemented protection against placing items in clothing slots, and fixed the custom slot number."
 }
