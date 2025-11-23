@@ -1,4 +1,4 @@
 {
-  "version": 1.993,
-  "change": "You can use outfit item now , implemented protection against placing items in clothing slots, and fixed the custom slot number."
+  "version": 1.996,
+  "change": "Fix execution of event hook message"
 }
