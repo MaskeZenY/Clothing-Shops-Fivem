@@ -1,4 +1,4 @@
 {
-  "version": 1.996,
-  "change": "Fix execution of event hook message"
+  "version": 1.997,
+  "change": "Fix freeze occurring when an outfit contains too many clothing components"
 }
