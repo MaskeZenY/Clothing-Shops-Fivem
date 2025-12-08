@@ -1,4 +1,4 @@
 {
-  "version": 1.998,
-  "change": "Fix for accessories not saving when using illenium-appearance"
+  "version": 1.9982,
+  "change": "Fix bug causing issues when opening the menu while an outfit is currently being changed"
 }
