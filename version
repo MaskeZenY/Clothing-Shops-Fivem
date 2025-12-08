@@ -1,4 +1,4 @@
 {
-  "version": 1.9981,
-  "change": "Fix bug causing issues when opening the menu while an outfit is currently being changed"
+  "version": 1.9982,
+  "change": "Fix the bug where props are automatically removed from the inventory."
 }
