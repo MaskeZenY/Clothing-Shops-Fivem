@@ -1,4 +1,4 @@
 {
-  "version": 1.997,
-  "change": "Fix freeze occurring when an outfit contains too many clothing components"
+  "version": 1.998,
+  "change": "Fix for accessories not saving when using illenium-appearance"
 }
