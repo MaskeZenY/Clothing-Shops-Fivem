@@ -1,4 +1,4 @@
 {
-  "version": 1.9982,
-  "change": "Fix the bug where props are automatically removed from the inventory."
+  "version": 1.9983,
+  "change": "Fix server-side performance."
 }
