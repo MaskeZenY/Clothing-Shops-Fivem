@@ -1,4 +1,4 @@
 {
-  "version": 1.9983,
-  "change": "Fix server-side performance."
+  "version": 2.0,
+  "change": "New UI Fix bug etc (please update your inventory)"
 }
