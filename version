@@ -1,4 +1,4 @@
 {
-  "version": 2.0,
-  "change": "New UI Fix bug etc (please update your inventory)"
+  "version": 2.1,
+  "change": "Complete UI redesign - Fixed multiple bugs - You can now use items directly - UI performance optimizations - Added multi-language support - Added in-UI notifications - Added a new admin system allowing admins to blacklist items and change prices directly in-game, without requiring a server restart - Improved UI responsiveness and navigation - Various bug fixes, optimizations, and additional improvements"
 }
