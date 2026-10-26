@@ -14,12 +14,9 @@
 
 <p>Offer your players a unique customization experience with our clothing store script!</p>
 
-<a href="https://store.mshop.ovh/category/2863891">Buy here</a>
+<a href="https://stores.timeshop.ovh/product/6778923">Buy here</a>
 
 
-<p><a href="https://www.youtube.com/watch?v=JqpncBoB5N4">Video</a></p>
+<p><a href="https://www.youtube.com/watch?v=gtVsYl12vuE">Video</a></p>
 
-
-![image 42 (1)](https://github.com/user-attachments/assets/cab09a2c-4da7-4acf-a989-3ee5b6e2ca48)
-
-
+<img width="1920" height="1081" alt="Group 81" src="https://github.com/user-attachments/assets/0b2a84c1-6f45-4cc8-8b8f-9ace0f491a51" />
